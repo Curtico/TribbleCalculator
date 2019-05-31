@@ -15,8 +15,7 @@ This program calculates how many tribbles there will be after leaving x tribbles
 
 If you want to do the math yourself, here is the formula:
 
-(x * 10)^y + x
---------------
+**(x * 10)^y + x**
 
 To run this program, follow the instructions below.
 
