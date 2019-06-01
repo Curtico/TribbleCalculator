@@ -11,10 +11,10 @@ From: https://en.wikipedia.org/wiki/Tribble
 >in their own eponymous official card game, and even lending their name to a family of proteins which are
 >associated with the biology of the fruit fly.
 
-This program calculates how many tribbles there will be after leaving x tribbles alone for y hours.
-
 In *Star Trek: Deep Space Nine* S5E6 "Trials and Tribble-ations", it is stated that tribbles give birth to an
 average litter of ten every hour.
+
+This program calculates how many tribbles there will be after leaving x tribbles alone for y hours.
 
 If you want to do the math yourself, here is the formula:
 
