@@ -13,6 +13,9 @@ From: https://en.wikipedia.org/wiki/Tribble
 
 This program calculates how many tribbles there will be after leaving x tribbles alone for y hours.
 
+In *Star Trek: Deep Space Nine* S5E6 "Trials and Tribble-ations", it is stated that tribbles give birth to an
+average litter of ten every hour.
+
 If you want to do the math yourself, here is the formula:
 
 **(x * 10)^y + x**
