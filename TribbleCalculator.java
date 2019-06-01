@@ -4,7 +4,7 @@ import java.math.BigInteger;
  * Calculate the size of a colony of tribbles.
  *
  * @author Curtice Gough
- * @version 05.31.19
+ * @version 6.1.19
  */
 public class TribbleCalculator
 {
@@ -46,6 +46,6 @@ public class TribbleCalculator
         
         System.out.println("\n\n\nFinished!  Here are the results:");
         System.out.println("\nIf you left " + startingTribbles + " tribbles alone for " + hours + " hours,");
-        System.out.println("you would come back to a massive pile of " + totalTribbles + " tribbles!.");
+        System.out.println("you would come back to a massive pile of " + totalTribbles + " tribbles!");
     }
 }
